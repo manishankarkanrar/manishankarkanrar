@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Future+Engineer;Web+Developer&color=00FF00&font=Fira+Code&center=true&vCenter=true&width=600&height=50&duration=3000&pause=1000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Aspiring+Software+Engineer;Web+Developer+%7C+Problem+Solver&color=00C2FF&font=Fira+Code&center=true&vCenter=true&width=650&height=50&duration=2800&pause=1200)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JS, React
