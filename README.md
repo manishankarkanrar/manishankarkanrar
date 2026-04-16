@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!!+to+my+profile;Future+Engineer;Web+Developer..)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!!+to+my+profile;Future+Engineer;Web+Developer&color=00C2FF&size=26&center=true&vCenter=true&width=600&height=50&duration=3000&pause=1000)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JS, React
