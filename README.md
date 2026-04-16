@@ -1,4 +1,4 @@
-## Welcome!!,
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!!+to+my+profile;Future+Engineer;Web+Developer..)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JS, React
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Future+Engineer)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=manishankarkanrar&theme=dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
